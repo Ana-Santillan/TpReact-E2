@@ -6,7 +6,7 @@ function App() {
 
   return (
     <section className='container'>
-      <Holamundo></Holamundo>
+      <Holamundo titulo='Hello my friend!'></Holamundo>
     </section>
   )
 }
