@@ -15,7 +15,7 @@ En este proyecto se realizó la práctica de ejercicios de React.
 En una terminal ejecuta el siguiente comando:
 
 ```
-git clone [https://github.com/Ana-Santillan/Trabajo_Practico_5_E4.git]
+git clone https://github.com/Ana-Santillan/TpReact-E2.git
 ```
 
 ### Autor 
